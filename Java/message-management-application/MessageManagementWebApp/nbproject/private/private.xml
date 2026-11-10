@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Gadifele%20Parsons%20Rad/OneDrive/Documentos/NetBeansProjects/message-management-application/MessageManagementWebApp/web/remove_outcome.jsp</file>
+            <file>file:/C:/Users/Gadifele%20Parsons%20Rad/OneDrive/Documentos/NetBeansProjects/message-management-application/MessageManagementWebApp/web/agent_menu.jsp</file>
+            <file>file:/C:/Users/Gadifele%20Parsons%20Rad/OneDrive/Documentos/NetBeansProjects/message-management-application/MessageManagementWebApp/web/menu.jsp</file>
+            <file>file:/C:/Users/Gadifele%20Parsons%20Rad/OneDrive/Documentos/NetBeansProjects/message-management-application/MessageManagementWebApp/web/view_all_messages_per_category_outcome.jsp</file>
+            <file>file:/C:/Users/Gadifele%20Parsons%20Rad/OneDrive/Documentos/NetBeansProjects/message-management-application/MessageManagementWebApp/web/index.html</file>
+            <file>file:/C:/Users/Gadifele%20Parsons%20Rad/OneDrive/Documentos/NetBeansProjects/message-management-application/MessageManagementWebApp/web/enter_message.jsp</file>
+            <file>file:/C:/Users/Gadifele%20Parsons%20Rad/OneDrive/Documentos/NetBeansProjects/message-management-application/MessageManagementWebApp/web/view_all_messages_outcome.jsp</file>
+            <file>file:/C:/Users/Gadifele%20Parsons%20Rad/OneDrive/Documentos/NetBeansProjects/message-management-application/MessageManagementWebApp/src/java/za/ac/tut/web/ViewAllMessagesServlet.java</file>
+            <file>file:/C:/Users/Gadifele%20Parsons%20Rad/OneDrive/Documentos/NetBeansProjects/message-management-application/MessageManagementWebApp/web/worst_performing_agent_outcome.jsp</file>
+            <file>file:/C:/Users/Gadifele%20Parsons%20Rad/OneDrive/Documentos/NetBeansProjects/message-management-application/MessageManagementWebApp/src/java/za/ac/tut/web/RemoveServlet.java</file>
+            <file>file:/C:/Users/Gadifele%20Parsons%20Rad/OneDrive/Documentos/NetBeansProjects/message-management-application/MessageManagementWebApp/src/java/za/ac/tut/web/SendMessageServlet.java</file>
+            <file>file:/C:/Users/Gadifele%20Parsons%20Rad/OneDrive/Documentos/NetBeansProjects/message-management-application/MessageManagementWebApp/src/java/za/ac/tut/web/StartServlet.java</file>
+            <file>file:/C:/Users/Gadifele%20Parsons%20Rad/OneDrive/Documentos/NetBeansProjects/message-management-application/MessageManagementWebApp/web/send_outcome.jsp</file>
+            <file>file:/C:/Users/Gadifele%20Parsons%20Rad/OneDrive/Documentos/NetBeansProjects/message-management-application/MessageManagementWebApp/web/manager_menu.jsp</file>
+            <file>file:/C:/Users/Gadifele%20Parsons%20Rad/OneDrive/Documentos/NetBeansProjects/message-management-application/MessageManagementWebApp/src/java/za/ac/tut/web/NameServlet.java</file>
+            <file>file:/C:/Users/Gadifele%20Parsons%20Rad/OneDrive/Documentos/NetBeansProjects/message-management-application/MessageManagementWebApp/web/session_started.jsp</file>
+            <file>file:/C:/Users/Gadifele%20Parsons%20Rad/OneDrive/Documentos/NetBeansProjects/message-management-application/MessageManagementWebApp/src/java/za/ac/tut/web/WorstPerformingAgentServlet.java</file>
+            <file>file:/C:/Users/Gadifele%20Parsons%20Rad/OneDrive/Documentos/NetBeansProjects/message-management-application/MessageManagementWebApp/src/java/za/ac/tut/web/ViewPerCategoryServlet.java</file>
+            <file>file:/C:/Users/Gadifele%20Parsons%20Rad/OneDrive/Documentos/NetBeansProjects/message-management-application/MessageManagementWebApp/web/remove.jsp</file>
+        </group>
+    </open-files>
+</project-private>
